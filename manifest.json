@@ -1,0 +1,19 @@
+{
+  "name": "National Casino",
+  "short_name": "National Casino",
+  "theme_color": "",
+  "background_color": "#292526",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772190820-1764926268-fa.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
